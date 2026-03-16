@@ -1,4 +1,4 @@
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h3 align="center">Meu nome é Ewerton Guilherme e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), que adora tecnologia e aprender coisas novas </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egs3-coder&label=Profile%20views&color=0e75b6&style=flat" alt="egs3-coder" /> </p>
 
